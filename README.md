@@ -1,2 +1,2 @@
 # Paxos-Algorithm
-Paxos algorithm implementation in Elixir for Distributed Systems Module
+Paxos algorithm written in Elixir, for solving consensus in a network with unreliable nodes, in partial fulfillment of a Univeristy module.
